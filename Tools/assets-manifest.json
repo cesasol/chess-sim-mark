@@ -1,0 +1,279 @@
+[
+  {
+    "id": "chess_set",
+    "category": "chess",
+    "title": "Chess Set",
+    "source": "Poly Haven",
+    "url": "https://polyhaven.com/a/chess_set",
+    "author": "Riley Queen",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "files": [
+      "chess/chess_set/chess_set.glb",
+      "chess/chess_set/src/"
+    ],
+    "notes": "2K glTF source in src/; GLB converted with Blender. Pieces are separate nodes: piece_{king,queen}_{white,black}, piece_{rook,knight,bishop}_{white,black}_{01,02}, piece_pawn_{white,black}_{01..08}, plus 'board'. Each node has its own mesh (no instancing); 3 materials: chess_set_pieces_white, chess_set_pieces_black, chess_set_board. Use the *_01 node of each type as the per-piece source mesh."
+  },
+  {
+    "id": "round_wooden_table_01",
+    "category": "furniture",
+    "title": "Round Wooden Table 01",
+    "source": "Poly Haven",
+    "url": "https://polyhaven.com/a/round_wooden_table_01",
+    "author": "Ulan Cabanilla",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "files": [
+      "furniture/round_wooden_table_01/round_wooden_table_01.glb",
+      "furniture/round_wooden_table_01/src/"
+    ],
+    "notes": "2K glTF source in src/; GLB converted with Blender. Club table."
+  },
+  {
+    "id": "SchoolChair_01",
+    "category": "furniture",
+    "title": "School Chair 01",
+    "source": "Poly Haven",
+    "url": "https://polyhaven.com/a/SchoolChair_01",
+    "author": "Ethan Place",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "files": [
+      "furniture/SchoolChair_01/SchoolChair_01.glb",
+      "furniture/SchoolChair_01/src/"
+    ],
+    "notes": "2K glTF source in src/; GLB converted with Blender. Use two instances."
+  },
+  {
+    "id": "wooden_bookshelf_worn",
+    "category": "furniture",
+    "title": "Wooden Bookshelf Worn",
+    "source": "Poly Haven",
+    "url": "https://polyhaven.com/a/wooden_bookshelf_worn",
+    "author": "Ulan Cabanilla",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "files": [
+      "furniture/wooden_bookshelf_worn/wooden_bookshelf_worn.glb",
+      "furniture/wooden_bookshelf_worn/src/"
+    ],
+    "notes": "2K glTF source in src/; GLB converted with Blender."
+  },
+  {
+    "id": "book_encyclopedia_set_01",
+    "category": "props",
+    "title": "Book Encyclopedia Set 01",
+    "source": "Poly Haven",
+    "url": "https://polyhaven.com/a/book_encyclopedia_set_01",
+    "author": "John Malcolm",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "files": [
+      "props/book_encyclopedia_set_01/book_encyclopedia_set_01.glb",
+      "props/book_encyclopedia_set_01/src/"
+    ],
+    "notes": "2K glTF source in src/; GLB converted with Blender. Books for the shelf."
+  },
+  {
+    "id": "potted_plant_04",
+    "category": "props",
+    "title": "Potted Plant 04",
+    "source": "Poly Haven",
+    "url": "https://polyhaven.com/a/potted_plant_04",
+    "author": "James Ray Cock",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "files": [
+      "props/potted_plant_04/potted_plant_04.glb",
+      "props/potted_plant_04/src/"
+    ],
+    "notes": "2K glTF source in src/; GLB converted with Blender."
+  },
+  {
+    "id": "wall_clock",
+    "category": "props",
+    "title": "Wall Clock",
+    "source": "Poly Haven",
+    "url": "https://polyhaven.com/a/wall_clock",
+    "author": "PierreB3D",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "files": [
+      "props/wall_clock/wall_clock.glb",
+      "props/wall_clock/src/"
+    ],
+    "notes": "2K glTF source in src/; GLB converted with Blender."
+  },
+  {
+    "id": "desk_lamp_arm_01",
+    "category": "props",
+    "title": "Desk Lamp Arm 01",
+    "source": "Poly Haven",
+    "url": "https://polyhaven.com/a/desk_lamp_arm_01",
+    "author": "Yann Kervran, Kuutti Siitonen",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "files": [
+      "props/desk_lamp_arm_01/desk_lamp_arm_01.glb",
+      "props/desk_lamp_arm_01/src/"
+    ],
+    "notes": "2K glTF source in src/; GLB converted with Blender. Optional warm practical light."
+  },
+  {
+    "id": "lythwood_lounge",
+    "category": "hdri",
+    "title": "Lythwood Lounge",
+    "source": "Poly Haven",
+    "url": "https://polyhaven.com/a/lythwood_lounge",
+    "author": "Greg Zaal",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "files": [
+      "hdri/lythwood_lounge/lythwood_lounge_4k.hdr"
+    ],
+    "notes": "4K .hdr; warm interior lounge (lamps), main IBL candidate."
+  },
+  {
+    "id": "art_studio",
+    "category": "hdri",
+    "title": "Art Studio",
+    "source": "Poly Haven",
+    "url": "https://polyhaven.com/a/art_studio",
+    "author": "Oliksiy Yakovlyev",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "files": [
+      "hdri/art_studio/art_studio_2k.hdr"
+    ],
+    "notes": "2K .hdr; daylight interior with large windows, alternate."
+  },
+  {
+    "id": "WoodFloor051",
+    "category": "textures",
+    "title": "Wood Floor 051",
+    "source": "ambientCG",
+    "url": "https://ambientcg.com/view?id=WoodFloor051",
+    "author": "Lennart Demes (ambientCG)",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "files": [
+      "textures/WoodFloor051/WoodFloor051_2K-JPG_AmbientOcclusion.jpg",
+      "textures/WoodFloor051/WoodFloor051_2K-JPG_Color.jpg",
+      "textures/WoodFloor051/WoodFloor051_2K-JPG_Displacement.jpg",
+      "textures/WoodFloor051/WoodFloor051_2K-JPG_NormalDX.jpg",
+      "textures/WoodFloor051/WoodFloor051_2K-JPG_NormalGL.jpg",
+      "textures/WoodFloor051/WoodFloor051_2K-JPG_Roughness.jpg"
+    ],
+    "notes": "2K JPG PBR (Color, NormalGL/DX, Roughness, AO, Displacement)."
+  },
+  {
+    "id": "PaintedPlaster017",
+    "category": "textures",
+    "title": "Painted Plaster 017",
+    "source": "ambientCG",
+    "url": "https://ambientcg.com/view?id=PaintedPlaster017",
+    "author": "Lennart Demes (ambientCG)",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "files": [
+      "textures/PaintedPlaster017/PaintedPlaster017_2K-JPG_Color.jpg",
+      "textures/PaintedPlaster017/PaintedPlaster017_2K-JPG_Displacement.jpg",
+      "textures/PaintedPlaster017/PaintedPlaster017_2K-JPG_NormalDX.jpg",
+      "textures/PaintedPlaster017/PaintedPlaster017_2K-JPG_NormalGL.jpg",
+      "textures/PaintedPlaster017/PaintedPlaster017_2K-JPG_Roughness.jpg"
+    ],
+    "notes": "2K JPG PBR wall."
+  },
+  {
+    "id": "lia",
+    "category": "characters",
+    "title": "Lia - Female avatar 3D",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/lia-female-avatar-3d-5ff2b1f694224aa399a6465d6aa29a57",
+    "author": "Xynox6 (@Xynox6)",
+    "license": "CC-BY-4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "files": [
+      "characters/lia/lia.glb",
+      "characters/lia/lia_morphs.glb",
+      "characters/lia/source/"
+    ],
+    "notes": "PRIMARY FEMALE. VRoid model with an adult-looking design and casual blouse and skirt. Use lia_morphs.glb, which is re-exported from source FBX and keeps 54 morph targets; lia.glb is the Sketchfab auto-GLB without morphs. Bones: Hips, Spine, Chest, Neck, Head, Eye_L, Eye_R. Morph mesh: 'Face (merged).baked'."
+  },
+  {
+    "id": "kayn_song",
+    "category": "characters",
+    "title": "Kayn.song",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/kaynsong-b7ebd33c9b704782896177fb380a8e91",
+    "author": "APO (@a47168218)",
+    "license": "CC-BY-4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "files": [
+      "characters/kayn_song/kayn_song.glb",
+      "characters/kayn_song/kayn_song_morphs.glb",
+      "characters/kayn_song/source/"
+    ],
+    "notes": "PRIMARY MALE. VRoid OC (adult singer). Use kayn_song_morphs.glb, which is re-exported from the source .blend. It keeps 57 morph targets, and its MToon materials were replaced with Principled base colour. GLB holds a posed Action and the bind pose is T-pose. Bones: J_Bip_C_Hips, J_Bip_C_Spine, J_Bip_C_Chest, J_Bip_C_UpperChest, J_Bip_C_Neck, J_Bip_C_Head, J_Adj_L/R_FaceEye."
+  },
+  {
+    "id": "elle",
+    "category": "characters",
+    "title": "Elle - Sci-Fi Anime Girl",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/elle-sci-fi-anime-girl-e16bf07a62e54b8ea99ca2653675bb41",
+    "author": "Kai Sama (@kaisamafab)",
+    "license": "CC-BY-4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "files": [
+      "characters/elle/elle.glb",
+      "characters/elle/elle_morphs.glb",
+      "characters/elle/source/"
+    ],
+    "notes": "ALTERNATE FEMALE (sci-fi tactical outfit). elle_morphs.glb has 57 morph targets and VRoid J_Bip_C_* bones. Check the import scale because the bounds include a stray object."
+  },
+  {
+    "id": "ryan",
+    "category": "characters",
+    "title": "Anime Character Model - Boy",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/anime-character-model-boy-c6a4ffb843c04103a3586e794c493846",
+    "author": "VR Avatars (@VR_Avatars)",
+    "license": "CC-BY-4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "files": [
+      "characters/ryan/ryan.glb",
+      "characters/ryan/ryan_morphs.glb",
+      "characters/ryan/source/"
+    ],
+    "notes": "ALTERNATE MALE (cat-ear hoodie). ryan_morphs.glb has 57 morph targets and a Mixamo rig (mixamorig:Hips/Spine/Spine1/Spine2/Neck/Head), which is easy to retarget in UE. Check the import scale."
+  },
+  {
+    "id": "window_curtain",
+    "category": "props",
+    "title": "Window_Curtain",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/window-curtain-229d686ed3c348808432d9093621eefd",
+    "author": "Nelesh_surve (@Nelesh_surve)",
+    "license": "CC-BY-4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "files": [
+      "props/window_curtain/window_curtain.glb"
+    ],
+    "notes": "Window with curtain."
+  },
+  {
+    "id": "weathered_wooden_window",
+    "category": "props",
+    "title": "Weathered Wooden Window | GameReady",
+    "source": "Sketchfab",
+    "url": "https://sketchfab.com/3d-models/weathered-wooden-window-gameready-c4256c1d2a0b49edb6a5aefcfe12593a",
+    "author": "Mark Peters (@mark-peters)",
+    "license": "CC-BY-4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "files": [
+      "props/weathered_wooden_window/weathered_wooden_window.glb"
+    ],
+    "notes": "Game-ready wooden window frame."
+  }
+]
