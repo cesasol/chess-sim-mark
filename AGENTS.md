@@ -1,0 +1,5 @@
+- Unreal Engine runtime at ~/UnrealEngine
+- use `export PATH=$PATH:$HOME/UnrealEngine/Engine/Binaries/Linux` to access binaries
+- Use `threenative-asset-mcp` locally to fetch assets
+- Repetitive actions and scaffold scripts are written as just recipes
+- BlenderKit GLB output goes to `private/blenderkit/`
