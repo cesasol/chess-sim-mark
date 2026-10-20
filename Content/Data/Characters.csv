@@ -1,0 +1,4 @@
+Id,Gender,Role,Archetype,NameKey,BlurbKey,AccentColor,Age,Difficulty,Model,ModelScale
+akane,Female,Opponent,Tsundere,name.akane,blurb.akane,#E0457B,21,Club,/Game/Art/Characters/Lia/lia_morphs/SkeletalMeshes,0.93
+ren,Male,Opponent,Yandere,name.ren,blurb.ren,#5B6CFF,22,Club,/Game/Art/Characters/Kayn/kayn_song_morphs/SkeletalMeshes,1.0
+mika,Female,Support,Cheerful Friend,name.mika,blurb.mika,#FFB347,20,,,

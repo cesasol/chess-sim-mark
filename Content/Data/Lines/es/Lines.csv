@@ -1,0 +1,224 @@
+Key,Text
+ui.title,Empecé como peón
+ui.subtitle,Un romance de ajedrez en la Universidad Seiran
+ui.start,Comenzar
+ui.quit,Salir
+ui.preference_prompt,¿A qué corazón vas a desafiar?
+ui.name_prompt,Tu nombre:
+ui.difficulty,Dificultad
+ui.difficulty.Novice,Principiante
+ui.difficulty.Casual,Casual
+ui.difficulty.Club,Club
+ui.difficulty.Strong,Fuerte
+ui.difficulty.Champion,Campeonato
+ui.language,Idioma
+ui.continue_hint,Haz clic o presiona Espacio para continuar
+ui.your_turn,Tu turno
+ui.thinking,{opponent} está pensando…
+ui.check,¡Jaque!
+ui.hint,Pista
+ui.resign,Rendirse
+ui.resign_confirm,¿Abandonar esta partida? Siempre puedes volver a intentarlo.
+ui.move_list,Jugadas
+ui.promote,Coronar como:
+ui.result.win,¡Victoria!
+ui.result.lose,Derrota
+ui.result.draw,Tablas
+ui.affection,Afecto
+ui.ending_back,Volver a la pantalla de título
+ui.engine_missing,No se encontró Stockfish: se usará la IA integrada de respaldo.
+ui.white,Blancas
+ui.black,Negras
+ui.status.checkmate,Jaque mate
+ui.status.stalemate,Rey ahogado
+ui.status.fifty,Tablas por la regla de los cincuenta movimientos
+ui.status.threefold,Tablas por triple repetición
+ui.status.insufficient,Tablas por material insuficiente
+ui.controls,Haz clic en una pieza y luego en una casilla · H: pista · R: rendirse · Espacio: avanzar
+ui.history,Historial
+ui.age_notice,Todos los personajes tienen 18 años o más.
+ui.credits,Créditos
+name.akane,Akane Hoshino
+name.ren,Ren Kurosawa
+name.mika,Mika Sato
+name.narrator,Narración
+blurb.akane,"Capitana de tercer año y campeona universitaria. Feroz, orgullosa y para nada interesada en ti. Probablemente."
+blurb.ren,Campeón vigente de cuarto año y príncipe del campus. Impecablemente educado. Lleva una libreta sobre sus rivales.
+blurb.mika,"Tu alegre amiga del club de ajedrez. Entrenadora, porrista y guardiana de los bocadillos."
+prologue.01,Abril. Los pétalos de cerezo flotan frente a las ventanas del viejo edificio de clubes de la Universidad Seiran.
+prologue.02,"Frente a una puerta que dice CLUB DE AJEDREZ — TOCA SUAVE, ESTAMOS PENSANDO, {player} duda con el formulario de inscripción en la mano."
+prologue.03,"¡{player}! ¡Sí viniste! Este es el club: doce integrantes, ocho tableros y una tetera con muy mal carácter."
+prologue.04,"Mika, ¿por qué todos están tan callados? Parece una biblioteca con rencores."
+prologue.05,Es el efecto del número uno. ¿Ves quién está sentado en el tablero junto a la ventana?
+akane.prologue.06,"Akane Hoshino. Tercer año, capitana del club, campeona universitaria. Nunca ha perdido una partida en el club... y nunca ha admitido que algo le guste."
+ren.prologue.06,"Ren Kurosawa. Cuarto año, campeón vigente, príncipe no oficial del campus. Invicto, imperturbable, y su club de fans tiene su propio club de fans."
+akane.prologue.07,"Akane estampa un caballo en el tablero con tanta fuerza que el reloj tiembla. Su rival se rinde en el acto, más que nada por miedo."
+ren.prologue.07,"Ren da jaque mate con una sonrisa amable, hace una reverencia y agradece ""una partidita encantadora"". Su rival se ve devastado."
+prologue.08,...Mika. Le voy a ganar a {opponent}.
+prologue.09,¡Directo al jefe final! ¡Me encanta! Espera... ¿por qué tienes la cara tan roja?
+prologue.10,Son los cerezos. Alergia. Definitivamente es alergia.
+akane.meet.01,Mika. Me estás tapando la luz. ¿Y quién es esta persona que me mira como si fuera una pieza de museo?
+ren.meet.01,"Buenas tardes, Mika. Y trajiste a alguien nuevo al club. Qué maravilla, me encantan las caras nuevas."
+meet.02,"¡Te presento a {player}! Se acaba de unir al club, sueña en grande y su teoría de aperturas es... cuestionable."
+akane.meet.03,Hmph. ¿Otra persona que quiere un autógrafo? Solo firmo planillas. Después de ganar.
+ren.meet.03,"Es un placer, {player}. Dime, ¿qué te trae a nuestro humilde campo de batalla?"
+meet.c1.prompt,¿Qué respondes?
+meet.c1.a,"""He visto tus partidas en línea. Juegas precioso."""
+meet.c1.b,"""Vine a quitarte el título."""
+meet.c1.c,"""¿Sinceramente? Mika me prometió bocadillos gratis."""
+akane.meet.c1a,¿¡P-precioso!? ¡No digas cosas raras así como si nada! ...¿Cuáles partidas? ¡N-no es que me importe!
+ren.meet.c1a,"¿Estudiaste mis partidas? Qué encantador. Nadie las había mirado tan de cerca. Salvo yo, las de otros. Olvídalo."
+akane.meet.c1b,¡Ja! Palabras grandes para alguien que sostiene el formulario al revés.
+ren.meet.c1b,"¿Mi título? Ay, qué emocionante. Por favor, inténtalo. Odiaría ser el único que se toma esto en serio."
+akane.meet.c1c,Los bocadillos son MÍOS. Yo los compré. ...Puedes agarrar uno. Solo porque ya van a caducar.
+ren.meet.c1c,Bocadillos. Ya veo. Y yo que pensaba que el destino por fin me había enviado un rival.
+meet.04,"No te dejes engañar por el aura, {player}. En realidad, {opponent} es un amor cuando llegas a—"
+akane.meet.05,¡Mika! ¡No le digas a la gente que soy un amor! ¡Arruinas toda mi imagen!
+ren.meet.05,"¿Cuando llegas a qué, Mika? ...¿Mm? Ah, nada. Por favor, continúa. Estoy sonriendo. ¿Ves?"
+akane.meet.06,"Como sea. Respóndeme algo, principiante. ¿Por qué ajedrez? ¿Por qué no tenis, karaoke o algo normal?"
+ren.meet.06,"Dime algo, {player}. De todos los juegos del mundo... ¿por qué el ajedrez?"
+meet.c2.prompt,¿Por qué ajedrez?
+meet.c2.a,"""Porque hasta un peón puede convertirse en reina."""
+meet.c2.b,"""Porque me gusta ganar."""
+meet.c2.c,"""Espera, ¿esto no es el club de damas?"""
+akane.meet.c2a,...Qué respuesta tan ridículamente romántica. Me gusta. Digo... ¡la tolero! ¡Moderadamente!
+ren.meet.c2a,Hasta un peón puede convertirse en reina... Voy a anotarlo. En mi libreta. La especial.
+akane.meet.c2b,Por fin una respuesta honesta. Ganar es lo único que vale la pena.
+ren.meet.c2b,Ganar. Sí. Es la sensación más deliciosa... hasta que ya no queda nadie a quien vencer.
+akane.meet.c2c,"¿¡DAMAS!? Fuera de aquí. No, espera, siéntate. Tengo que corregirte."
+ren.meet.c2c,"Damas. Ja, ja. Es broma. Tiene que ser broma. ...Por favor, dime que es broma."
+meet.07,"La verdad, {opponent}... no vine solo a unirme al club."
+akane.meet.08,¿Eh? Entonces qué... ¡no me digas que es una declaración! ¿¡Frente a todo el club!?
+ren.meet.08,"¿Oh? ¿Entonces a qué viniste? Por favor, no me hagas esperar. Soy pésimo esperando."
+challenge.01,Vine a desafiarte. Una partida. Ahora mismo.
+akane.challenge.02,¿Tú? ¿Desafiarme a MÍ? ...Está bien. Pero una partida sin apuesta es solo un pasatiempo.
+ren.challenge.02,Un desafío... No tienes idea de cuánto tiempo esperé a que alguien dijera eso. ¿Lo hacemos interesante?
+challenge.c3.prompt,Pon la apuesta.
+challenge.c3.a,"""Si gano, tendrás una cita conmigo."""
+challenge.c3.b,"""Si gano... ¿me invitas a comer?"""
+challenge.c3.c,"""Si gano, admites que juego mejor que tú."""
+akane.challenge.c3a,"¿¡U-UNA CITA!? ¿¡Perdiste la cabeza!? ...¡Bien! ¡Trato hecho! Igual vas a PERDER, así que da lo mismo."
+ren.challenge.c3a,Una cita. Conmigo. Si ganas. ...Sí. Por supuesto. Acepto. Acepté antes de que terminaras la frase.
+akane.challenge.c3b,"¿Comida? Qué aburrido. Si vas a apostar, apuesta en serio. Si ganas... saldré contigo en una cita. ¡Ya! ¿¡Ya estás feliz!?"
+ren.challenge.c3b,"¿Comida? Qué propuesta tan modesta. Subamos la apuesta: si ganas, te llevaré a una cita como se debe. Yo planeo todo. Tengo planes desde hace tiempo."
+akane.challenge.c3c,"¿Admitir ESO? Jamás. ...Pero si ocurre un milagro, está bien. Y además saldré contigo en una cita. ¡Como castigo! ¡Para mí!"
+ren.challenge.c3c,"Con gusto... si es que pasa. Y para que sea justo, si ganas también te llevas una cita conmigo. Dicen que es todo un premio."
+challenge.03,¿¡Todos escucharon eso!? ¡Una apuesta con cita incluida contra {opponent}! ¡El boletín del club se escribe solo!
+akane.challenge.04,"Mika, si una sola palabra de esto sale en el boletín, ¡te toca cuidar los relojes durante un año!"
+ren.challenge.04,"Mika, por favor, escríbelo. Con letra grande. Quiero que todo el campus sepa quién es mi rival."
+challenge.05,"Las sillas rechinan. Doce integrantes del club, una tetera y un pétalo de cerezo se reúnen alrededor del tablero."
+akane.defeat.01,¡Jaque mate! ¡Ja! ¿De verdad creíste que podías ganarme? ...Aunque duraste más que la mayoría. ¡Apenas!
+ren.defeat.01,Jaque mate. Gracias por una partida encantadora. Ya la memoricé. Cada jugada. La voy a atesorar.
+akane.defeat.02,¡N-no es que me preocupara la cita ni nada! ¡Estaba lista para lo que fuera! Digo... ¡no estaba lista! ¡Cállate!
+ren.defeat.02,No pongas esa cara. Perder solo significa que tienes que volver conmigo. Te guardaré el asiento. Ya le puse tu nombre.
+defeat.03,"¡Ánimo, {player}! Todas las leyendas empezaron perdiendo. Lo vas a lograr, y yo llevo los bocadillos."
+choice.what_now,¿Y ahora?
+defeat.opt.rematch,"""¡Revancha!"""
+defeat.opt.learn,"""Fue una gran partida. Muéstrame en qué me equivoqué... ¡y otra vez!"""
+akane.defeat.04,"¿Q-quieres que YO te enseñe? ...Uf, está bien. Tu alfil lloró toda la partida. Ahora siéntate. ¡Otra vez!"
+ren.defeat.04,¿Quieres aprender de mí? Es lo más lindo que alguien me ha dicho. La repasaremos diecisiete veces. Y luego jugamos.
+akane.draw.01,¿¡Tablas!? ¡Nadie me saca tablas! Esto es... ¡tan irritante! ¡Otra vez! ¡Ahora mismo!
+ren.draw.01,Tablas... Me sacaste tablas. ¿Sabes lo que significa? Que el destino nos une. En igualdad de condiciones.
+draw.02,"¿¡Tablas contra {opponent}!? {player}, en este club eso es prácticamente una victoria. ¡Ya casi!"
+draw.opt.rematch,"""¡Revancha! Esta vez la termino."""
+draw.opt.respect,"""De cerca eres todavía más fuerte. Juguemos otra vez."""
+akane.draw.03,¿¡M-más fuerte de cerca!? ¿¡Qué significa eso!? ...Acomoda las piezas. Rápido. Antes de que mi cara haga algo tonto.
+ren.draw.03,De cerca... sí. Juguemos otra vez. Esta vez acercaré un poco mi silla. Para el análisis.
+akane.victory.01,¿Q-qué... jaque mate? ¿A mí? ¿Yo... perdí?
+ren.victory.01,Oh. Vaya. Eso es... jaque mate. De verdad lo lograste.
+victory.02,¡{player} LE GANÓ a {opponent}! ¡Estoy gritando! ¡En silencio! ¡Reglas del club!
+akane.victory.03,"¡No te hagas ideas raras! Perdí limpiamente, así que... una apuesta es una apuesta. Yo cumplo mis promesas."
+ren.victory.03,"Tres años invicto, y fuiste tú quien terminó con eso. Lo supe en cuanto entraste. Mi rival. Solo mi rival."
+akane.victory.true,"Oye, {player}... no es que quisiera perder. Pero si tenía que ser alguien... me alegra que fueras tú."
+ren.victory.true,"Memoricé cada partida que has jugado, {player}. Todas. Pero esta... esta la voy a recordar de otra manera."
+akane.victory.sweet,E-entonces... ¿el sábado? En el café junto a la estación. ¡No llegues tarde o me voy! ...No me voy a ir.
+ren.victory.sweet,"El sábado, entonces. Conozco un cafecito cerca de la estación. Ya reservé nuestra mesa. Desde el mes pasado. Por coincidencia."
+akane.victory.rivals,"Una cita. Como rivales. Y la próxima vez te aplasto, ¡así que no te confíes!"
+ren.victory.rivals,"Una cita, como prometí... y luego una revancha. Y otra. Vas a ser mi rival por muchísimo tiempo, {player}."
+akane.ending.true_love.title,Jaque mate al corazón
+ren.ending.true_love.title,Mi rival para siempre
+akane.ending.true_love.body,"Akane llega al café veinte minutos antes y finge que acaba de llegar. Para la segunda taza de té, deja de fingir muchas cosas. El boletín del club publica la noticia de todos modos, y ella la enmarca."
+ren.ending.true_love.body,"La libreta de Ren gana un capítulo nuevo y, por una vez, no trata de aperturas. Te acompaña a casa después de cada reunión del club y sonríe como quien por fin encontró a su igual. Su club de fans está devastado."
+akane.ending.sweet_start.title,Una apertura un poco dulce
+ren.ending.sweet_start.title,Una apertura delicada
+akane.ending.sweet_start.body,"La cita es incómoda, ruidosa y llena de discusiones sobre la Defensa Siciliana. Akane se ríe más de lo que planeaba. Insiste en que fue cosa de una vez y luego ella misma agenda la siguiente."
+ren.ending.sweet_start.body,"El café, la mesa junto a la ventana, el postre en el momento exacto: Ren planeó todo excepto lo nervioso que estaría. Derrama su té dos veces y se ríe de sí mismo. Antes de que llegue la cuenta, ya acordaron una segunda cita."
+akane.ending.rivals.title,"Rivales, por ahora"
+ren.ending.rivals.title,Comienza la rivalidad
+akane.ending.rivals.body,"Akane cumple su promesa: una cita dedicada por completo a analizar tu partida mientras comen curry. Todavía no es romance, pero empieza a guardarte un lugar en el tablero de la ventana todos los días. Es un comienzo."
+ren.ending.rivals.body,"Ren cumple la apuesta con una cena impecable y un poquito inquietante, en la que recita de memoria tus jugadas de apertura. Todavía no es amor, pero ya agendó sus próximas diez revanchas. El romance, insiste, es una partida larga."
+akane.react.game_start.1,"No llores cuando gane. ...Bueno, sí llora. No pasa nada."
+akane.react.game_start.2,¡Ya mueve de una vez! ¡N-no estoy nerviosa!
+akane.react.thinking.1,Mmm... ¡No me mires mientras pienso!
+akane.react.thinking.2,Dame un segundo. Esto está... bien. Está bien.
+akane.react.blunder.1,¿¡En serio!? ¿Siquiera estabas viendo el tablero?
+akane.react.blunder.2,¡Ja! Gracias por el regalo. Aunque no te lo voy a agradecer.
+akane.react.mistake.1,Qué descuido. Esperaba más. ...¡No es que esperara algo!
+akane.react.mistake.2,Hmph. Eso te va a doler después.
+akane.react.good_move.1,¿Q-qué? ¿¡De dónde salió eso!?
+akane.react.good_move.2,"...Está bien, eso estuvo bueno. ¡Que no se te suba a la cabeza!"
+akane.react.capture.1,¡Oye! ¡La estaba usando!
+akane.react.capture.2,"Bien, llévatela. A ver si me importa. (Me importa.)"
+akane.react.capture_queen.1,¿¡MI DAMA!? ¡Me las vas a pagar!
+akane.react.capture_queen.2,"No, no, no, no... bueno. Bueno. Todavía puedo ganar."
+akane.react.opp_capture.1,Ahora es mía. ¡Despídete!
+akane.react.opp_capture.2,¡Muy lento!
+akane.react.check.1,"Uf, ¿jaque? ¡No pongas esa cara de triunfo!"
+akane.react.check.2,¡L-lo vi venir! ¡Obviamente!
+akane.react.opp_check.1,¡Jaque! ¿Ya vas a huir?
+akane.react.opp_check.2,Jaque. Tu rey tiembla. Igual que tus manos.
+akane.react.castle.1,¿Enroque? ¡Esconder a tu rey no te va a salvar!
+akane.react.castle.2,Seguro y aburrido. Muy tu estilo.
+akane.react.promote.1,¿¡Un peón llegó hasta el final!? ...Qué irritantemente inspirador.
+akane.react.promote.2,¡Ni se te ocurra dar un discurso!
+akane.react.winning.1,¡Esto no ha terminado! ¡Apenas estoy... calentando!
+akane.react.winning.2,¡Deja de sonreír! ¡Me distraes!
+akane.react.opp_winning.1,¿Ves? ¡Esta es la diferencia entre tú y yo!
+akane.react.opp_winning.2,Quizá debiste unirte al club de damas.
+akane.react.hint.1,¿Pidiendo pistas? ...Está bien. Yo no vi nada.
+akane.react.hint.2,¡Una pista no te va a salvar! ...Pero úsala bien.
+akane.react.player_win.1,¿Yo... perdí? ¡Es tu culpa por jugar tan bien!
+akane.react.player_win.2,N-no puede ser... ¡Otra! No... un trato es un trato.
+akane.react.opp_win.1,¡Jaque mate! ¡Inclínate ante tu capitana!
+akane.react.opp_win.2,Eso te pasa por desafiarme. ...¿Vuelves mañana?
+akane.react.draw.1,¿¡Tablas!? ¡Eso es peor que perder! ¡De alguna forma!
+akane.react.draw.2,Nada mal... para alguien que no soy yo.
+ren.react.game_start.1,¿Empezamos? He soñado con esta partida. Literalmente.
+ren.react.game_start.2,Tómate tu tiempo. Te estaré mirando. De cerca. Siempre.
+ren.react.thinking.1,Mmm. Juegas igual que en tus partidas en línea. Lo comprobé.
+ren.react.thinking.2,"Un momento, por favor. Estoy saboreando esto."
+ren.react.blunder.1,"Ay, no. ¿Finjo que no lo vi? ...No. Lo vi."
+ren.react.blunder.2,¿Un regalo? ¿Para mí? Lo atesoraré para siempre.
+ren.react.mistake.1,Mm. No es tu mejor jugada. Lo anotaré en tu expediente.
+ren.react.mistake.2,Un pequeño desliz. Te perdono. Te lo perdono todo.
+ren.react.good_move.1,Ah... magnífico. Ese es mi rival.
+ren.react.good_move.2,Esa jugada... voy a pensar en ella toda la noche.
+ren.react.capture.1,Te la llevaste con tanta elegancia que ni me molesta.
+ren.react.capture.2,Qué audacia. Hazlo otra vez.
+ren.react.capture_queen.1,Mi dama... Me la arrebataste. Qué dramático. Me encanta.
+ren.react.capture_queen.2,"Oh, vas en serio. Maravilloso. Verdaderamente maravilloso."
+ren.react.opp_capture.1,Perdóname. La cuidaré bien.
+ren.react.opp_capture.2,Mía. Como cada partida que jugaremos.
+ren.react.check.1,¿Jaque? Me aceleras el corazón.
+ren.react.check.2,"Ah, has estado estudiando. ¿Por mí?"
+ren.react.opp_check.1,"Jaque. No te preocupes, nunca dejaré que te alejes."
+ren.react.opp_check.2,"Jaque, rival de mi corazón."
+ren.react.castle.1,Enroque. Tal como lo predije. Página cuarenta y dos de mis notas.
+ren.react.castle.2,¿Proteges a tu rey? Qué tierno. Yo también lo protegería.
+ren.react.promote.1,Un peón que renace como reina... igual que nosotros.
+ren.react.promote.2,Qué poético. Lo voy a pegar en mi álbum de recuerdos.
+ren.react.winning.1,"¿Vas ganando? ...Ay, este es el mejor día de mi vida."
+ren.react.winning.2,Por fin. Alguien que de verdad puede desafiarme.
+ren.react.opp_winning.1,No te rindas ahora. Me romperías el corazón.
+ren.react.opp_winning.2,"Resiste un poco más, por favor. ¿Por mí?"
+ren.react.hint.1,¿Una pista? Qué astucia. Te la habría susurrado si me la pedías.
+ren.react.hint.2,Usa todo lo que tengas. Quiero verte dar lo mejor de ti.
+ren.react.player_win.1,Me ganaste... Sabía que serías tú.
+ren.react.player_win.2,Jaque mate. A mí. Voy a enmarcar esta planilla.
+ren.react.opp_win.1,Jaque mate. Gracias. ¿Mañana a la misma hora? Te estaré esperando.
+ren.react.opp_win.2,Qué partida tan linda. Ya la memoricé.
+ren.react.draw.1,Tablas. Perfectamente equilibrado. Como el destino.
+ren.react.draw.2,Iguales... Somos iguales. ¿Sabes lo feliz que me hace eso?
+react.any.game_start.1,Juguemos.
+react.any.thinking.1,Mmm...
+react.any.draw.1,"Tablas, entonces."

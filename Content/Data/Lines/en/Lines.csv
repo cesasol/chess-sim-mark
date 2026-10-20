@@ -1,0 +1,224 @@
+Key,Text
+ui.title,I Started as a Pawn
+ui.subtitle,A chess romance at Seiran University
+ui.start,Start
+ui.quit,Quit
+ui.preference_prompt,Whose heart will you challenge?
+ui.name_prompt,Your name:
+ui.difficulty,Difficulty
+ui.difficulty.Novice,Novice
+ui.difficulty.Casual,Casual
+ui.difficulty.Club,Club
+ui.difficulty.Strong,Strong
+ui.difficulty.Champion,Champion
+ui.language,Language
+ui.continue_hint,Click or press Space to continue
+ui.your_turn,Your turn
+ui.thinking,{opponent} is thinking…
+ui.check,Check!
+ui.hint,Hint
+ui.resign,Resign
+ui.resign_confirm,Resign this game? You can always try again.
+ui.move_list,Moves
+ui.promote,Promote to:
+ui.result.win,Victory!
+ui.result.lose,Defeat
+ui.result.draw,Draw
+ui.affection,Affection
+ui.ending_back,Return to title
+ui.engine_missing,Stockfish not found — using the built-in fallback AI.
+ui.white,White
+ui.black,Black
+ui.status.checkmate,Checkmate
+ui.status.stalemate,Stalemate
+ui.status.fifty,Draw by the fifty-move rule
+ui.status.threefold,Draw by threefold repetition
+ui.status.insufficient,Draw by insufficient material
+ui.controls,"Click a piece, then a square · H: hint · R: resign · Space: advance"
+ui.history,History
+ui.age_notice,All characters are 18 or older.
+ui.credits,Credits
+name.akane,Akane Hoshino
+name.ren,Ren Kurosawa
+name.mika,Mika Sato
+name.narrator,Narrator
+blurb.akane,"Third-year captain and university champion. Fierce, proud, and absolutely not interested in you. Probably."
+blurb.ren,Fourth-year reigning champion and campus prince. Impeccably polite. Keeps a notebook about his rivals.
+blurb.mika,"Your cheerful friend in the chess club. Coach, cheerleader, and keeper of the snacks."
+prologue.01,April. Cherry petals drift past the windows of Seiran University's old club building.
+prologue.02,"Behind a door marked CHESS CLUB — KNOCK QUIETLY, WE ARE THINKING, {player} hesitates, membership form in hand."
+prologue.03,"{player}! You came! Welcome to the club — twelve members, eight boards, one very temperamental kettle."
+prologue.04,"Mika, why is everyone so quiet? It feels like a library with a grudge."
+prologue.05,That's the champion effect. See who's sitting at the window board?
+akane.prologue.06,"Akane Hoshino. Third-year, club captain, university champion. Has never lost a club game — and has never once admitted to enjoying anything."
+ren.prologue.06,"Ren Kurosawa. Fourth-year, reigning champion, unofficial campus prince. Undefeated, unbothered, and his fan club has its own fan club."
+akane.prologue.07,"Akane slams down a knight hard enough to rattle the clock. Her opponent resigns on the spot, mostly out of fear."
+ren.prologue.07,"Ren delivers checkmate with a gentle smile, bows, and thanks his opponent for ""a lovely little game."" The opponent looks devastated."
+prologue.08,...Mika. I'm going to beat {opponent}.
+prologue.09,Straight to the final boss! I love it! Wait... why is your face so red?
+prologue.10,It's the cherry blossoms. Allergies. Definitely allergies.
+akane.meet.01,"Mika. You're blocking my light. And who is this, staring at me like I'm a museum exhibit?"
+ren.meet.01,"Good afternoon, Mika. And you've brought someone new. How wonderful — I do love new faces."
+meet.02,"This is {player}! Brand-new member, big dreams, questionable opening theory."
+akane.meet.03,Hmph. Another fan who wants an autograph? I only sign scoresheets. After I win.
+ren.meet.03,"A pleasure, {player}. Tell me, what brings you to our humble little battlefield?"
+meet.c1.prompt,What do you say?
+meet.c1.a,"""I've watched your games online. You play beautifully."""
+meet.c1.b,"""I'm here to take your title."""
+meet.c1.c,"""Honestly? Mika promised free snacks."""
+akane.meet.c1a,B-beautifully?! Don't say weird things so casually! ...Which games? N-not that I care!
+ren.meet.c1a,"You studied my games? How lovely. Nobody has ever looked that closely. Except me, at others. Never mind."
+akane.meet.c1b,Ha! Big words from someone holding the membership form upside down.
+ren.meet.c1b,"My title? Oh, how thrilling. Please do try. I'd hate to be the only one taking this seriously."
+akane.meet.c1c,The snacks are MINE. I bought them. ...You can have one. Only because they're about to expire.
+ren.meet.c1c,Snacks. I see. And here I thought fate had finally sent me a rival.
+meet.04,"Don't let the aura fool you, {player}. {opponent} is actually super sweet once you—"
+akane.meet.05,Mika! Don't tell people I'm sweet! It ruins my whole thing!
+ren.meet.05,"Once you what, Mika? ...Hm? Oh, nothing. Please, continue. I'm smiling. See?"
+akane.meet.06,"Whatever. Answer me this, rookie. Why chess? Why not tennis, or karaoke, or something normal?"
+ren.meet.06,"Tell me something, {player}. Of all the games in the world... why chess?"
+meet.c2.prompt,Why chess?
+meet.c2.a,"""Because even a pawn can become a queen."""
+meet.c2.b,"""Because I like winning."""
+meet.c2.c,"""Wait, this isn't the checkers club?"""
+akane.meet.c2a,...That's a ridiculously romantic answer. I like it. I mean— I tolerate it! Moderately!
+ren.meet.c2a,Even a pawn can become a queen... I'm writing that down. In my notebook. The special one.
+akane.meet.c2b,"Finally, an honest answer. Winning is the only thing worth liking."
+ren.meet.c2b,Winning. Yes. It's the most delicious feeling... until there's no one left to beat.
+akane.meet.c2c,"CHECKERS?! Get out. No, wait — sit down. I need to fix you."
+ren.meet.c2c,Checkers. Ha ha. You're joking. You must be joking. ...Please tell me you're joking.
+meet.07,"Actually, {opponent}... I didn't just come here to join the club."
+akane.meet.08,Huh? Then what— don't tell me this is a confession! In front of the whole club?!
+ren.meet.08,Oh? Then what did you come for? Please don't keep me waiting. I'm terrible at waiting.
+challenge.01,I came to challenge you. One game. Right now.
+akane.challenge.02,You? Challenge ME? ...Fine. But a game with no stakes is just a hobby.
+ren.challenge.02,A challenge... You have no idea how long I've waited for someone to say that. Shall we make it interesting?
+challenge.c3.prompt,Name the stakes.
+challenge.c3.a,"""If I win, you go on a date with me."""
+challenge.c3.b,"""If I win... you buy me lunch?"""
+challenge.c3.c,"""If I win, you admit I'm the better player."""
+akane.challenge.c3a,"A D-DATE?! Have you lost your mind?! ...Fine! Deal! You're going to LOSE anyway, so it doesn't matter!"
+ren.challenge.c3a,A date. With me. If you win. ...Yes. Absolutely. I accept. I accepted before you finished the sentence.
+akane.challenge.c3b,"Lunch? That's so lame. If you're going to bet, bet properly. If you win... I'll go on a date with you. There! Happy?!"
+ren.challenge.c3b,"Lunch? How modest. Let's raise it: if you win, I'll take you on a proper date. I'll plan everything. I've had plans for a while."
+akane.challenge.c3c,"Admit THAT? Never. ...But if a miracle happens, fine. And I'll go on a date with you too. As a punishment. For me!"
+ren.challenge.c3c,"Gladly — if it ever happens. And to make it fair, if you win, you also get a date with me. I'm told it's quite the prize."
+challenge.03,Did everyone hear that?! A date bet with {opponent}! The club newsletter writes itself!
+akane.challenge.04,"Mika, if a single word of this ends up in the newsletter, you're on clock duty for a year!"
+ren.challenge.04,"Mika, please do write it. In large font. I want the whole campus to know who my rival is."
+challenge.05,"Chairs scrape. Twelve club members, one kettle, and a single cherry petal gather around the board."
+akane.defeat.01,"Checkmate! Hah! Did you really think you could beat me? ...You lasted longer than most, though. Barely!"
+ren.defeat.01,Checkmate. Thank you for a lovely game. I've already memorized it. Every move. I'll treasure it.
+akane.defeat.02,N-not that I was worried about the date or anything! I was ready either way! I mean— I wasn't ready! Shut up!
+ren.defeat.02,Don't look so sad. Losing just means you have to come back to me. I'll keep your seat warm. I've already labeled it.
+defeat.03,"Chin up, {player}! Every champion started out losing. You'll get there — and I'll bring snacks."
+choice.what_now,What now?
+defeat.opt.rematch,"""Rematch!"""
+defeat.opt.learn,"""That was a great game. Show me where I went wrong — then again!"""
+akane.defeat.04,"Y-you want ME to teach you? ...Ugh, fine. Your bishop was crying the whole game. Now sit down. Again!"
+ren.defeat.04,You want to learn from me? That's my favourite thing anyone has ever said. We'll review it seventeen times. Then play.
+akane.draw.01,A draw?! Nobody draws against me! This is... so annoying! Again! Right now!
+ren.draw.01,A draw... You held me to a draw. Do you know what that means? We're bound by fate. Equally.
+draw.02,"A draw against {opponent}?! {player}, that's basically a win in this club. You're so close!"
+draw.opt.rematch,"""Rematch! This time I'll finish it."""
+draw.opt.respect,"""You're even stronger up close. Let's play again."""
+akane.draw.03,S-stronger up close?! What does that even mean?! ...Set up the pieces. Quickly. Before my face does something stupid.
+ren.draw.03,Up close... yes. Let's play again. I'll move my chair a little nearer this time. For the analysis.
+akane.victory.01,Wh... checkmate? Me? I... lost?
+ren.victory.01,Oh. Oh my. That's... checkmate. You actually did it.
+victory.02,{player} BEAT {opponent}! I'm screaming! Quietly! Club rules!
+akane.victory.03,"Don't get the wrong idea! I lost fair and square, so... a bet's a bet. I keep my promises."
+ren.victory.03,"Undefeated for three years, and you're the one who ended it. I knew it the moment you walked in. My rival. Only mine."
+akane.victory.true,"Listen, {player}... it's not like I wanted to lose. But if it had to be someone... I'm glad it was you."
+ren.victory.true,"I've memorized every game you've ever played, {player}. All of them. But this one... I'll remember differently."
+akane.victory.sweet,"S-so... Saturday? The café by the station. Don't be late, or I'll leave! ...I won't leave."
+ren.victory.sweet,"Saturday, then. I know a little café near the station. I've reserved our table. Since last month. Coincidentally."
+akane.victory.rivals,"One date. As rivals. And next time I'm crushing you, so don't get too confident!"
+ren.victory.rivals,"One date, as promised — and then a rematch. And another. You'll be my rival for a very long time, {player}."
+akane.ending.true_love.title,"Checkmate, Heart"
+ren.ending.true_love.title,Forever My Rival
+akane.ending.true_love.body,"Akane shows up to the café twenty minutes early and pretends she just arrived. By the second cup of tea, she stops pretending about a lot of things. The club newsletter runs the headline anyway — and she frames it."
+ren.ending.true_love.body,"Ren's notebook gains a new chapter, and for once it isn't about openings. He walks you home after every club meeting and smiles like someone who has finally found his match. The fan club is in shambles."
+akane.ending.sweet_start.title,A Slightly Sweet Opening
+ren.ending.sweet_start.title,A Gentle Opening
+akane.ending.sweet_start.body,"The date is awkward, loud, and full of arguments about the Sicilian Defense. Akane laughs more than she meant to. She insists it was a one-time thing, then books the next one herself."
+ren.ending.sweet_start.body,"The café, the window seat, the perfectly timed dessert — Ren planned everything except how nervous he would be. He spills his tea twice and laughs about it. You agree to a second date before the bill arrives."
+akane.ending.rivals.title,"Rivals, For Now"
+ren.ending.rivals.title,The Rivalry Begins
+akane.ending.rivals.body,"Akane keeps her promise: one date, spent entirely analyzing your game over curry. It isn't romance yet, but she starts saving you a seat at the window board every day. That's a start."
+ren.ending.rivals.body,"Ren honours the bet with a flawless, slightly unsettling dinner where he recites your opening moves from memory. It isn't love yet — but he has already scheduled your next ten rematches. Romance, he insists, is a long game."
+akane.react.game_start.1,"Don't cry when I win. ...Actually, cry. It's fine."
+akane.react.game_start.2,Make your move already! I-I'm not nervous!
+akane.react.thinking.1,Hmm... Don't stare while I'm thinking!
+akane.react.thinking.2,Give me a second. This is... fine. It's fine.
+akane.react.blunder.1,Seriously?! Were you even looking at the board?
+akane.react.blunder.2,"Ha! Thanks for the gift. I won't say thank you, though."
+akane.react.mistake.1,Sloppy. I expected better. ...Not that I expected anything!
+akane.react.mistake.2,Hmph. That one's going to hurt later.
+akane.react.good_move.1,Wh— where did that come from?!
+akane.react.good_move.2,"...Okay, that was good. Don't let it go to your head!"
+akane.react.capture.1,Hey! I was using that!
+akane.react.capture.2,"Fine, take it. See if I care. (I care.)"
+akane.react.capture_queen.1,MY QUEEN?! You'll pay for that!
+akane.react.capture_queen.2,No no no no— okay. Okay. I can still win this.
+akane.react.opp_capture.1,Mine now. Say goodbye!
+akane.react.opp_capture.2,Too slow!
+akane.react.check.1,"Ugh, check? Don't look so pleased with yourself!"
+akane.react.check.2,I-I saw that coming! Obviously!
+akane.react.opp_check.1,Check! Running away already?
+akane.react.opp_check.2,Check. Your king is trembling. Just like your hands.
+akane.react.castle.1,Castling? Hiding your king won't save you!
+akane.react.castle.2,Safe and boring. Very you.
+akane.react.promote.1,A pawn made it all the way?! ...Annoyingly inspiring.
+akane.react.promote.2,Don't you dare make a speech about it!
+akane.react.winning.1,This isn't over! I'm just... warming up!
+akane.react.winning.2,Stop smiling! You're distracting me!
+akane.react.opp_winning.1,See? This is the difference between us!
+akane.react.opp_winning.2,Maybe you should've joined the checkers club.
+akane.react.hint.1,Asking for hints? ...Fine. I didn't see anything.
+akane.react.hint.2,"A hint won't save you! ...Use it well, though."
+akane.react.player_win.1,I... lost? This is your fault for being so good!
+akane.react.player_win.2,N-no way... One more! No— a deal's a deal.
+akane.react.opp_win.1,Checkmate! Bow before your captain!
+akane.react.opp_win.2,That's what you get for challenging me. ...Come back tomorrow?
+akane.react.draw.1,A draw?! That's worse than losing! Somehow!
+akane.react.draw.2,Not bad... for someone who isn't me.
+ren.react.game_start.1,Shall we? I've been dreaming about this game. Literally.
+ren.react.game_start.2,Take your time. I'll be watching. Closely. Always.
+ren.react.thinking.1,Hmm. You play exactly like your online games. I checked.
+ren.react.thinking.2,"One moment, please. I'm savouring this."
+ren.react.blunder.1,Oh dear. Shall I pretend I didn't see that? ...No. I saw it.
+ren.react.blunder.2,A gift? For me? I'll cherish it forever.
+ren.react.mistake.1,Hm. Not your best. I'll note it in your file.
+ren.react.mistake.2,A small slip. I forgive you. I forgive you everything.
+ren.react.good_move.1,Ah... magnificent. That's my rival.
+ren.react.good_move.2,That move... I'll be thinking about it all night.
+ren.react.capture.1,You took it so elegantly. I'm not even upset.
+ren.react.capture.2,How bold. Do that again.
+ren.react.capture_queen.1,My queen... You took her from me. How dramatic. I love it.
+ren.react.capture_queen.2,"Oh, you're serious. Wonderful. Truly wonderful."
+ren.react.opp_capture.1,Forgive me. I'll keep it safe.
+ren.react.opp_capture.2,Mine. Like every game we'll ever play.
+ren.react.check.1,Check? You're making my heart race.
+ren.react.check.2,"Ah, so you've been studying. For me?"
+ren.react.opp_check.1,"Check. Don't worry, I'll never let you get far."
+ren.react.opp_check.2,"Check, rival of my heart."
+ren.react.castle.1,Castling. Exactly as predicted. Page forty-two of my notes.
+ren.react.castle.2,Protecting your king? Sweet. I'd protect it too.
+ren.react.promote.1,A pawn reborn as a queen... just like us.
+ren.react.promote.2,How poetic. I'm adding this to the scrapbook.
+ren.react.winning.1,"You're winning? ...Oh, this is the best day of my life."
+ren.react.winning.2,Finally. Someone who can truly challenge me.
+ren.react.opp_winning.1,Don't give up now. I'd be heartbroken.
+ren.react.opp_winning.2,Please struggle a little more. For me?
+ren.react.hint.1,A hint? Clever. I'd have whispered one if you'd asked.
+ren.react.hint.2,Use every tool you have. I want you at your very best.
+ren.react.player_win.1,You beat me... I knew it would be you.
+ren.react.player_win.2,Checkmate. On me. I'm framing this scoresheet.
+ren.react.opp_win.1,Checkmate. Thank you. Same time tomorrow? I'll be waiting.
+ren.react.opp_win.2,Lovely game. I've already memorized it.
+ren.react.draw.1,A draw. Perfectly balanced. Like destiny.
+ren.react.draw.2,Equals... We're equals. Do you know how happy that makes me?
+react.any.game_start.1,Let's play.
+react.any.thinking.1,Hmm...
+react.any.draw.1,"A draw, then."
