@@ -11,7 +11,7 @@ Dual gender focus bishōjo and otome style
 - Free assets for MVP
 - Anime inspired narrative following cliches such as yandere and tsundere
 - Dual gender preference, male and female character roaster
-- Stockfish used as a library for chess engine and other chess related functionality
+- Stockfish UCI subprocess integration as a chess engine
 - 3D gameplay
 - Live character reaction
 - csv data loading for character lines, scenarios and scripted flows
